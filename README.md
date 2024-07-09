@@ -53,6 +53,13 @@ To run the app, you will need to have the following installed on your machine:
 * Expo CLI
 
 
+
+Clone the project
+
+```bash
+  git clone https://github.com/muddasir03/Uber-Clone-ReactNative.git
+```
+
 change directory
 
 ```bash
@@ -100,3 +107,5 @@ expo publish
 ## :handshake: Contact
 
 Email ID- yongjusticeanimbomnumfor@gmail.com
+
+
