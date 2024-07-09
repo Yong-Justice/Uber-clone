@@ -56,10 +56,6 @@ To run the app, you will need to have the following installed on your machine:
 
 Clone the project
 
-```bash
-  git clone https://github.com/muddasir03/Uber-Clone-ReactNative.git
-```
-
 change directory
 
 ```bash
